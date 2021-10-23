@@ -4,7 +4,9 @@
 
 
 A website which provides users free assistance on how to invest and earn from Cryptocurrencies.
-[!Cryptant](https://user-images.githubusercontent.com/74147463/138559132-3ba64b6e-a275-4ad6-ae3d-a804ffafa3a3.png)
+
+![Cryptant](https://user-images.githubusercontent.com/74147463/138559132-3ba64b6e-a275-4ad6-ae3d-a804ffafa3a3.png)
+
 Presenting, **Cryptant** which provides high quality advice for free to people around the globe to make them learn how to invest and earn from cryptocurrencies.
 
 As per several reports, It is assumed that cryptocurrencies will replace every national currency and will be highly valued than current value. Cryptocurrencies like Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) are predicted to have a bright future in relation to price and valuation.
