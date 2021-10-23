@@ -1,11 +1,8 @@
 # [Cryptant](https://cryptant.my.to/)
 ## Your Digital Crypto Assistant
 
-**[Vote for me](https://twtcodejam.net/timathon/vote/357/)** <br />
 
 A website which provides users free assistance on how to invest and earn from Cryptocurrencies.
-
-This is Just for fun#4278 's submission for Timathon 2021 (Jan-Feb)
 
 Presenting, **Cryptant** which provides high quality advice for free to people around the globe to make them learn how to invest and earn from cryptocurrencies.
 
@@ -19,7 +16,7 @@ As per several reports, It is assumed that cryptocurrencies will replace every n
 5. [Top Gainers ⬆️ and Losers ⬇️](#top-gainers-⬆️-and-losers-⬇️)
 6. [API](#api)
 
-## **[AI 🤖 Advice](https://cryptant.my.to/predictions.html)**
+## **[AI 🤖 Advice]**
 Stuck on what cryptocurrency to buy? Use our AI predictions to know the best possible outcoming cryptocurrencies in the near future. <br />
 Get the future prediction from our highly trained AI just to give out the best results out to our users 🤑
 
@@ -36,7 +33,7 @@ Get the future prediction from our highly trained AI just to give out the best r
 ![Image](https://media.giphy.com/media/QqM0fzb33qRIZOKizV/giphy.gif)
 
 
-## **[Current Price 💸](https://cryptant.my.to/livePrice.html)**
+## **[Current Price 💸]**
 Get the live prices for almost all cryptocurrencies at one place for free on **Cryptant**! <br />
 Know the live price and make your decision to either buy or sell the cryptocurrency and make profit 🤑
 
@@ -69,7 +66,7 @@ Get the latest news of the current situation of the cryptocurrency market for fr
 ![Image](https://media.giphy.com/media/GIOz5tAX8qzrbzIgrS/giphy.gif)
 
 
-## **[Candlestick Graphs 📈](https://cryptant.my.to/graphs.html)**
+## **[Candlestick Graphs 📈]**
 
 A  **candlestick chart 📈**   is a style of financial chart used to describe price movements of a  security,  derivative, or  currency. Each "candlestick" typically shows one day, thus a one-month chart may show the 20 trading days as 20 candlesticks. Candlestick charts can also be built using intervals shorter or longer than one day.<br />
 
@@ -97,7 +94,7 @@ Cryptant provides candlestick graphs for almost all cryptocurrencies for time in
 ![Image](https://media.giphy.com/media/9nr1OGBnI8aNCz2e29/giphy.gif)
 
 
-## **[Top Gainers ⬆️ and Losers ⬇️](https://cryptant.my.to/topGainersLosers.html)**
+## **[Top Gainers ⬆️ and Losers ⬇️]**
 
 Cryptocurrencies which gain the maximum percentage in their buying price are termed as  **Top Gainers ⬆️** and which lose the maximu percentage in their buying price are termed as **Top Losers ⬇️** <br />
 Cryptant provides a list of such gainers and losers at one place for free, updated regularly!
@@ -137,9 +134,6 @@ Get AI 🤖 Advice for any cryptocurrency: `/getPrediction/<coin>` <br />
 ![Image](https://media.giphy.com/media/RZJ0Ew7WQaP6Xhk4mo/giphy.gif)
 
 ----
-If you liked my (Just for fun#4278) website, kindly do me a favour by voting me in this Codejam 😄.<br />
-**[Vote for me](https://twtcodejam.net/timathon/vote/357/)**
-
 
 ## Want to host it yourself?
 1. Install all dependencies stated in `API/requirements.txt`
@@ -147,6 +141,3 @@ If you liked my (Just for fun#4278) website, kindly do me a favour by voting me 
 3. Change API Url in each HTML file.
 4. Open `index.html` and done.
 5. Host it using `nginx` if you want it to be hosted on a domain
-
-If you liked my (Just for fun#4278) website, kindly do me a favour by voting me in this Codejam 😄.<br />
-**[Vote for me](https://twtcodejam.net/timathon/vote/357/)**
